@@ -46,7 +46,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(\w)+:?</string>
+			<string>(\w)+:</string>
 			<key>name</key>
 			<string>entity.name.function.cutronasm</string>
 		</dict>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1|BEQ,BGT,BLT|}  ${2:Ra}, ${3:Rb}, ${4:address}</string>
+	<key>name</key>
+	<string>Branch</string>
+	<key>scope</key>
+	<string>source.cutronasm</string>
+	<key>tabTrigger</key>
+	<string>b</string>
+	<key>uuid</key>
+	<string>4259743E-F1E7-43EB-83E4-FCC19D6590AE</string>
+</dict>
+</plist>

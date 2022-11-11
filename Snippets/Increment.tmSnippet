@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>INC  ${1:Rd}</string>
+	<key>name</key>
+	<string>Increment</string>
+	<key>scope</key>
+	<string>source.cutronasm</string>
+	<key>tabTrigger</key>
+	<string>i</string>
+	<key>uuid</key>
+	<string>C35917DA-BDD4-4405-B394-A6B88EDCA28E</string>
+</dict>
+</plist>

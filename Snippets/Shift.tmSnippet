@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>SHFT ${1:Rd}, ${2:Ra}, ${3:constant}</string>
+	<key>name</key>
+	<string>Shift</string>
+	<key>scope</key>
+	<string>source.cutronasm</string>
+	<key>tabTrigger</key>
+	<string>sh</string>
+	<key>uuid</key>
+	<string>3F17D96B-E256-41EE-8757-2F242D49D8AC</string>
+</dict>
+</plist>
