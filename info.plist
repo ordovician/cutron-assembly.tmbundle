@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>revx.raturvz@znp.pbz</string>
+	<key>contactName</key>
+	<string>Erik Engheim</string>
+	<key>description</key>
+	<string>Calcutron-33 Assembly code bundle</string>
+	<key>name</key>
+	<string>Calcutron-33 Assembly</string>
+	<key>uuid</key>
+	<string>D9FF6B05-2DAF-45ED-861E-988F7ECED516</string>
+</dict>
+</plist>
