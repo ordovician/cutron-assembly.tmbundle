@@ -4,7 +4,9 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>src</string>
+		<string>ct33</string>
+		<string>asm</string>
+		<string>cutron</string>
 	</array>
 	<key>name</key>
 	<string>Calcutron-33 Assembly</string>
